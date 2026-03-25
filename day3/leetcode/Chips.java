@@ -1,6 +1,6 @@
 class Chips {
     public int minCostToMoveChips(int[] position) {
-        int event = 0;
+        int even = 0;
         int odd = 0;
 
         for (int pos : position) {
