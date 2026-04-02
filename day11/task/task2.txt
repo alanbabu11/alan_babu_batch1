@@ -1,0 +1,1 @@
+Do deep research why when giving Integer == gives true but in Float == gives false
