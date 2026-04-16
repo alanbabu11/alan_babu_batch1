@@ -1,0 +1,1 @@
+in a class file why it works even when the parameter is changed
